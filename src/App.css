@@ -20,3 +20,25 @@
 .App-link {
   color: #09d3ac;
 }
+.itune-wrapper{
+  border: 2px solid #12747F;
+  max-width: 90vmax;
+  min-width: 45vmax;
+  margin: auto;
+  display:flex;
+  flex-direction:row;
+  margin-bottom: 1em;
+  padding-bottom: 0.5em;
+  background-color: #ABD6DB;
+}
+.player{
+  display:flex;
+  flex-direction:row;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top: 100px;
+  border-color: blue;
+}
+.chart{
+  text-align: center;
+}
